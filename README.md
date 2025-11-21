@@ -1,1 +1,2 @@
-# Fusion-AI-Broswer
+# Fusion-AI-Broswer 
+Fusion DevStudio — A desktop AI-powered development browser with a built-in multi-agent AutoDev engine that converts Azure DevOps user stories into complete, runnable applications
